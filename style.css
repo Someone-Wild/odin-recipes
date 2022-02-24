@@ -1,0 +1,23 @@
+
+
+
+.background{
+    background-color:maroon;
+}
+.title {
+    font-size: 60px;
+    background-color:brown;
+    color: white;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+.link{
+    color:white;
+    font-size: 48px;
+    font-family: Verdana, sans-serif;
+}
+.tacos{
+    height: auto;
+    width: 400px;
+}
